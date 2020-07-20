@@ -9,10 +9,10 @@ audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: df5c132a8e66a9e9d2c8e7a2cf299a6a6a3527b7
+source-git-commit: 3d8621e0bdda1aa6b9a576fca07aacebd1ad46d5
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 0%
 # Stapgebeurtenissen rapporteren aan [!UICONTROL Adobe Experience Platform ]
 
 [!UICONTROL Journey Orchestration] verzendt automatisch de gegevens van de vervoersprestaties naar het [!UICONTROL Adobe Experience Platform] zodat het met andere gegevens voor analysedoeleinden kan worden gecombineerd.
-In de volgende video wordt uitgelegd wat [!UICONTROL journey step events] er is en welke [!UICONTROL data steps] er automatisch zijn gemaakt [!UICONTROL Experience Platform ]en hoe u deze kunt verkennen.
+In de volgende video wordt uitgelegd wat [!UICONTROL journey step events] er is en welke [!UICONTROL data steps] [!UICONTROL Experience Platform] er automatisch worden gemaakt en hoe u deze kunt verkennen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
 
