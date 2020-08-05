@@ -1,6 +1,6 @@
 ---
-title: 'Daggebeurtenissen melden aan Adobe Experience Platform '
-description: Deze zelfstudie legt uit hoe u naar rapporten voor uw reis kunt navigeren, hoe u datumbereiken voor uw rapport kunt aanpassen en hoe u een rapportagesjabloon kunt opslaan voor toekomstig gebruik.
+title: 'Dagboekevenementen aan Adobe Experience Platform melden '
+description: In de volgende video wordt uitgelegd welke stappen voor de stap van de reis worden uitgevoerd en welke gegevensstappen automatisch worden gemaakt op het Experience Platform en hoe u deze kunt verkennen.
 feature: Journey Orchestration
 topics: Introduction
 kt: 5488
@@ -9,10 +9,10 @@ audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: 3d8621e0bdda1aa6b9a576fca07aacebd1ad46d5
+source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 1%
+source-wordcount: '99'
+ht-degree: 2%
 
 ---
 
@@ -24,7 +24,7 @@ In de volgende video wordt uitgelegd wat [!UICONTROL journey step events] er is 
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
 
-## Aanvullende bronnen
+## Aanvullende resources
 
 * [Journey Orchestration Help Center](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
 * [Overzicht van stap delen voor reizen](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html)
