@@ -1,24 +1,26 @@
 ---
-title: Reisorchestratiezelfstudies - Overzicht
-description: Met Reisorchestratie kunt u in real-time gebruikmaken van orchestratiefase en gebruik maken van contextuele gegevens die zijn opgeslagen in gebeurtenissen of gegevensbronnen
+title: Journey Orchestration Tutorials - Overzicht
+description: Met Journey Orchestration kunt u in real-time gebruikmaken van scenario's voor het orchestreren van contextafhankelijke gegevens die zijn opgeslagen in gebeurtenissen of gegevensbronnen
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: d8a3de100c1b0607abf16e59dba8a5783f6097fc
+source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 0%
+source-wordcount: '245'
+ht-degree: 1%
 
 ---
 
 
 # Overzicht
 
-[!UICONTROL Journey Orchestration] is een toepassingsservice die is geïntegreerd met het Adobe Experience Platform. Zo kunt u in real-time gebruikmaken van orchestratiefuncties door gebruik te maken van contextuele gegevens die zijn opgeslagen in gebeurtenissen of gegevensbronnen.
+[!UICONTROL Journey Orchestration] is een toepassingsservice die is geïntegreerd met de Adobe Experience Platform. Zo kunt u in real-time gebruikmaken van orchestratiefuncties door gebruik te maken van contextuele gegevens die zijn opgeslagen in gebeurtenissen of gegevensbronnen.
 
 ## Nieuwe functies
 
-* **[Hoe u hulp kunt vinden met Journey Orchestration](/help/how-to-find-help-with-journey-orchestration.md)**   <br>
-   *Begrijp waar u snel antwoorden op uw vragen kunt vinden rond[!UICONTROL Journey Orchestration], hoe te om steun te contacteren, en waar te om steunkaartjes te registreren, evenals hoe u ons kunt terugkoppelen.*
+* **[Dagboekevenementen aan Adobe Experience Platform melden](/help/how-to-find-help-with-journey-orchestration.md)**   <br>
+   *Leer hoe de gebeurtenissen van de reisstap zijn en welke gegevensstappen automatisch op Experience Platform worden gecreeerd en hoe te om deze te onderzoeken.*
+* **[Segmentkwalificatiegebeurtenissen gebruiken](help/using-segment-qualification-events.md)**   <br>
+   *Deze video geeft u een korte inleiding op hoe te om een reis met een gebeurtenis van de Kwalificatie van het Segment als ingang of uitgangspunt tot stand te brengen.*
 
 ## Personeelsselectie
 
@@ -26,15 +28,15 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="./understanding-journey-orchestration.md">
-      <img alt="Werken met Journey Orchestration" src="./assets/journey-orchestration-example.png"/>
+      <img alt="Journey Orchestration begrijpen" src="./assets/journey-orchestration-example.png"/>
     </a>
     <div>
       <a href="./understanding-journey-orchestration.md">
-    <strong>Werken met Journey Orchestration</strong>
+    <strong>Journey Orchestration begrijpen</strong>
     </a>
     </div>
     <p>
-    <em>Begrijp het concept van de Orchestratie van de Reis, de soorten gebruiksgevallen het toelaat en de belangrijkste elementen van hoe de Orchestratie van de Reis werkt.</em>
+    <em>Begrijp het concept van Journey Orchestration, de soorten gebruiksgevallen het toelaat en de belangrijkste elementen van hoe Journey Orchestration werkt.</em>
     <p>
   </td>
   <td>
@@ -68,6 +70,6 @@ ht-degree: 0%
 
 ## Aanvullende bronnen
 
-* [Help Center voor reisorganisatie](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
-* [Zelfstudies voor Adobe Experience Platform](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
+* [Adobe Experience Platform Tutorials](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
 
