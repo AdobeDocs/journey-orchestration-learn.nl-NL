@@ -9,7 +9,7 @@ tutorials-url: https://docs.adobe.com/content/help/en/journey-orchestration-lear
 getting-started-title: Help Center
 getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html
 translation-type: tm+mt
-source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
+source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 2%
@@ -22,7 +22,7 @@ ht-degree: 2%
 + [Overzicht](/help/overview.md)
 + [Journey Orchestration begrijpen](/help/understanding-journey-orchestration.md)
 + [Streaming-gebeurtenissen configureren](/help/configuring-journey-orchestration/configure-streaming-events.md)
-+ [Segmentkwalificatiegebeurtenissen gebruiken](help/using-segment-qualification-events.md)
++ [Segmentkwalificatiegebeurtenissen gebruiken](/help/using-segment-qualification-events.md)
 + [Gegevensbronnen configureren](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [Handelingen configureren](/help/configuring-journey-orchestration/configure-actions.md)
 + [Een reis maken](/help/create-a-journey.md)
