@@ -1,6 +1,6 @@
 ---
-title: Een reis maken met Adobe Journey Orchestration
-description: In de volgende video hieronder wordt uitgelegd hoe u een nieuwe reis kunt maken, met een gebeurtenis kunt beginnen, besturingselementen voor orchestraties kunt gebruiken om de stroom en de timing van een reis te beheren en Handelingen kunt gebruiken om punten in de reis te betreden.
+title: Een journey maken met Adobe Journey Orchestration
+description: In de volgende video hieronder wordt uitgelegd hoe u een nieuwe journey kunt maken, hoe u begint met een gebeurtenis, hoe u orkestraties gebruikt om de stroom en het tijdstip van een journey te bepalen en hoe u acties kunt gebruiken om in te grijpen op bepaalde punten van de journey.
 feature: Journey Orchestration
 topics: Create a journey
 kt: 2789
@@ -8,26 +8,26 @@ thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Een reis maken
+# Een journey maken
 
 In de volgende video hieronder wordt uitgelegd hoe u dit kunt doen:
 
-* Een nieuwe reis maken en met een gebeurtenis beginnen
-* Gebruik [!UICONTROL Orchestration] besturingselementen om de snelheid en het tijdstip van een reis te bepalen
-* Gebruik acties om punten in de reis aan te gaan.
+* Een nieuwe journey maken en met een gebeurtenis beginnen
+* [!UICONTROL Orchestration]-besturingselementen gebruiken om de stroom en het tijdstip van een journey te bepalen
+* Acties gebruiken om in te grijpen op bepaalde punten in de journey.
 
->[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12&captions=dut)
 
-## Aanvullende bronnen
+## Aanvullende resources
 
-* [Reisorchestratie Help Center](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
-   * [Een reis maken](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/about-journey-building/journey.html)
+* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/nl-NL/journeys/using/journey-orchestration-home.html):
+   * [Een journey maken](https://docs.adobe.com/content/help/nl-NL/journeys/using/building-journeys/about-journey-building/journey.html)
