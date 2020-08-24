@@ -1,5 +1,5 @@
 ---
-title: Hoe u hulp kunt vinden met Journey Orchestration
+title: Hulp krijgen voor Journey Orchestration
 description: In de video wordt uitgelegd hoe u gemakkelijk hulp kunt vinden
 feature: Journey Orchestration
 topics: Help and Support
@@ -8,17 +8,17 @@ thumbnail: 32010.jpg
 audience: developer, business user, admin
 doc-type: video
 activity: understand
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 56b3abb5d3a69a516d45eb889932c6036ce54798
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '53'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Hoe u hulp kunt vinden met [!UICONTROL Journey Orchestration]
+# Hulp krijgen voor [!UICONTROL Journey Orchestration]
 
-In deze video wordt uitgelegd waar u snel antwoorden op uw vragen kunt vinden, [!UICONTROL Journey Orchestration]hoe u contact kunt opnemen met ondersteuning, waar u ondersteuningstickets kunt registreren en hoe u feedback kunt geven.
+In deze video wordt uitgelegd waar u snel antwoorden op uw vragen over [!UICONTROL Journey Orchestration] kunt vinden, hoe u contact kunt opnemen met ondersteuning, waar u ondersteuningstickets kunt registreren en hoe u feedback kunt geven.
 
->[!VIDEO](https://video.tv.adobe.com/v/32010?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32010?quality=12&captions=dut)
