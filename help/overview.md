@@ -3,7 +3,7 @@ title: Tutorials voor Journey Orchestration - Overzicht
 description: Met Journey Orchestration kunt u realtimegebruiksscenario’s voor orkestratie maken door gebruik te maken van contextafhankelijke data die zijn opgeslagen in gebeurtenissen of databronnen
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
+source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 80%
@@ -17,7 +17,7 @@ ht-degree: 80%
 
 ## Nieuwe functies
 
-* **[Gebeurtenissen van journeystappen rapporteren aan Adobe Experience Platform](/help/how-to-find-help-with-journey-orchestration.md)**
+* **[Gebeurtenissen van journeystappen rapporteren aan Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)**
 
    <br>
    *Leer hoe de gebeurtenissen van de reisstap zijn en welke gegevensstappen automatisch op Experience Platform worden gecreeerd en hoe te om deze te onderzoeken.*
