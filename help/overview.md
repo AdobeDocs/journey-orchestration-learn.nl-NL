@@ -6,7 +6,7 @@ translation-type: tm+mt
 source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -17,14 +17,14 @@ ht-degree: 80%
 
 ## Nieuwe functies
 
-* **[Gebeurtenissen van journeystappen rapporteren aan Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)**
+* **[Journeystapgebeurtenissen rapporteren aan Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)**
 
    <br>
-   *Leer hoe de gebeurtenissen van de reisstap zijn en welke gegevensstappen automatisch op Experience Platform worden gecreeerd en hoe te om deze te onderzoeken.*
+   *Leer wat journeystapgebeurtenissen zijn, welke gegevensstappen automatisch op Experience Platform worden gemaakt en hoe u deze kunt verkennen.*
 * **[Segmentkwalificatiegebeurtenissen gebruiken](/help/using-segment-qualification-events.md)**
 
    <br>
-   *Deze video geeft u een korte inleiding op hoe te om een reis met een gebeurtenis van de Kwalificatie van het Segment als ingang of uitgangspunt tot stand te brengen.*
+   *Deze video biedt een korte inleiding over het maken van een journey met een segmentkwalificatiegebeurtenis als aankomst- of vertrekpunt.*
 
 ## Personeelsselectie
 
