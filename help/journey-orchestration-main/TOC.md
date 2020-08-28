@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -28,5 +28,5 @@ ht-degree: 95%
 + [Een journey maken](/help/create-a-journey.md)
 + [Een journey valideren en publiceren](/help/validate-and-publish-a-journey.md)
 + [Een journey analyseren via rapportagetools](/help/analyze-a-journey-via-reporting-tools.md)
-+ [Gebeurtenissen van journeystappen rapporteren aan Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
++ [Journeystapgebeurtenissen rapporteren aan Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
 + [Hulp krijgen voor Journey Orchestration](/help/how-to-find-help-with-journey-orchestration.md)
