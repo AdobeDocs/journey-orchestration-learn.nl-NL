@@ -1,6 +1,6 @@
 ---
 title: Segmentkwalificatiegebeurtenissen gebruiken
-description: Deze video geeft u een korte inleiding op waar te om segmenten te vormen en hoe te om een gebeurtenis van de Kwalificatie van het Segment in een reis te vormen.
+description: Deze video biedt een korte inleiding over waar u segmenten kunt configureren en hoe u een segmentkwalificatiegebeurtenis in een journey kunt configureren.
 feature: Journey Orchestration
 topics: Events
 kt: 5485
@@ -8,30 +8,30 @@ thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
 # Segmentkwalificatiegebeurtenissen gebruiken
 
-Met een segmentkwalificatiegebeurtenis kunt u luisteren naar de toegang tot en het vertrek van profielen in Adobe Experience Platform-segmenten om ervoor te zorgen dat individuen een reis kunnen maken of vooruit kunnen gaan.
+Met een segmentkwalificatiegebeurtenis kan uw journey luisteren naar de aankomst en het vertrek van profielen in Adobe Experience Platform-segmenten, waardoor individuele gebruikers een journey kunnen starten of voortzetten.
 
-Voorbeelden van gebruiksgevallen zijn:
+Voorbeelden van gebruiksscenario’s:
 
-* Een reis wordt teweeggebracht voor een mobiele dienstklant wanneer zij hun gegevensgrens overschrijden
-* Wanneer een klant een nieuw loyaliteitssegment bereikte of uit een loyaliteitssegment daalt
+* Een journey wordt geactiveerd voor een klant van een mobiele service wanneer deze de gegevenslimiet overschrijdt
+* Wanneer een klant een nieuw loyaliteitssegment bereikt, of juist uit een loyaliteitssegment verdwijnt
 
-Deze video geeft u een korte inleiding op waar te om segmenten te vormen en hoe te om een gebeurtenis van de Kwalificatie van het Segment in een reis te vormen.
+Deze video biedt een korte inleiding over waar u segmenten kunt configureren en hoe u een segmentkwalificatiegebeurtenis in een journey kunt configureren.
 
->[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12&captions=dut)
 
-## Aanvullende bronnen
+## Aanvullende resources
 
 Documentatie:
 
-* [Segmentkwalificatiegebeurtenissen](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html)
+* [Segmentkwalificatiegebeurtenissen](https://docs.adobe.com/content/help/nl-nl/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html)
