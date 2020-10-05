@@ -75,5 +75,5 @@ ht-degree: 100%
 ## Aanvullende resources
 
 * [Journey Orchestration Help Center](https://docs.adobe.com/content/help/nl-NL/journeys/using/journey-orchestration-home.html)
-* [Tutorials voor Adobe Experience Platform](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Tutorials voor Adobe Experience Platform](https://docs.adobe.com/content/help/nl-NL/platform-learn/tutorials/overview.html)
 
