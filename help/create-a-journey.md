@@ -8,11 +8,11 @@ thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
-workflow-type: ht
-source-wordcount: '110'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ In de volgende video hieronder wordt uitgelegd hoe u dit kunt doen:
 * [!UICONTROL Orchestration]-besturingselementen gebruiken om de stroom en het tijdstip van een journey te bepalen
 * Acties gebruiken om in te grijpen op bepaalde punten in de journey.
 
->[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
 
 ## Aanvullende resources
 
