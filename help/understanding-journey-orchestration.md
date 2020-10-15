@@ -8,9 +8,9 @@ thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 100%
 
@@ -31,7 +31,7 @@ De video hieronder laat het volgende zien
 * De soorten gebruiksscenario’s die mogelijk zijn
 * De belangrijkste elementen van hoe [!UICONTROL Journey Orchestration] werkt
 
->[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12)
 
 ## Hoe u een journey kunt configureren
 
