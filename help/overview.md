@@ -2,9 +2,9 @@
 title: Tutorials voor Journey Orchestration - Overzicht
 description: Met Journey Orchestration kunt u realtimegebruiksscenario’s voor orkestratie maken door gebruik te maken van contextafhankelijke data die zijn opgeslagen in gebeurtenissen of databronnen
 products: Journey orchestration
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 100%
 
