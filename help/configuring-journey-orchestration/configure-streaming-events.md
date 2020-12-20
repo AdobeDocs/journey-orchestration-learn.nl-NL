@@ -24,7 +24,7 @@ ht-degree: 25%
 * de directe acties van een individu (bijvoorbeeld een product hebben gekocht, een winkel hebben bezocht of een online winkelwagentje hebben verlaten), of
 * Iets dat gebeurde en dat verband houdt met het individu (zo bereikten ze 10.000 loyaliteitspunten)
 
-[!UICONTROL Journey Orchestration] de gebeurtenissen worden via [!UICONTROL XDM experience events] de verbinding naar de Adobe Experience Platform verzonden [!UICONTROL streaming ingestion].
+[!UICONTROL Journey Orchestration] de gebeurtenissen  [!UICONTROL XDM experience events] worden via  [!UICONTROL streaming ingestion]de Adobe Experience Platform verzonden.
 
 >[!NOTE]
 >
@@ -41,11 +41,11 @@ Als u de voorbeelden in de video wilt begrijpen, moet u zich ook vertrouwd maken
 >* [Adobe Experience Platform-locatieservice](https://docs.adobe.com/content/help/nl-NL/places/using/home.html)
 
 
-## How to configure [!UICONTROL streaming events]
+## Hoe te om [!UICONTROL streaming events] te vormen
 
 In de volgende video wordt uitgelegd hoe u dit doet:
 
-* XDM-schema&#39;s en gegevenssets voor [!UICONTROL Journey Orchestration] gebeurtenissen configureren
+* Vorm XDM schema&#39;s en datasets voor [!UICONTROL Journey Orchestration] gebeurtenissen
 * Een gebeurtenis definiëren in [!UICONTROL Journey Orchestration]
 * Bronsystemen configureren om gebeurtenissen te streamen
 
