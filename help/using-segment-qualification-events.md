@@ -8,9 +8,9 @@ thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ Voorbeelden van gebruiksscenario’s:
 
 Deze video biedt een korte inleiding over waar u segmenten kunt configureren en hoe u een segmentkwalificatiegebeurtenis in een journey kunt configureren.
 
->[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12)
 
 ## Aanvullende resources
 
