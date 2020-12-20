@@ -1,6 +1,6 @@
 ---
 title: Gegevensbronnen configureren voor Adobe Journey Orchestration
-description: Met de reisorganisatie kunt u verbinding maken met het Adobe Experience Platform of andere systemen van derden om aanvullende informatie op te halen. Dit leerprogramma verklaart hoe te om de Gegevensbron van het Platform van de Ervaring te vormen, een externe gegevensbron te vormen, gegevens in een reis te vinden en te gebruiken.
+description: Met Journey Orchestration kunt u verbinding maken met Adobe Experience Platform of andere systemen van derden om aanvullende informatie op te halen. Dit leerprogramma verklaart hoe te om de Gegevensbron van het Experience Platform te vormen, een externe gegevensbron te vormen, gegevens in een reis te vinden en te gebruiken.
 feature: Journey Orchestration
 topics: Data Sources
 kt: 2774
@@ -12,14 +12,14 @@ translation-type: tm+mt
 source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
 
-# Gegevensbronnen configureren
+# Databronnen configureren
 
-[!UICONTROL Journey Orchestration] maakt het mogelijk verbinding te maken met het Adobe Experience Platform of andere gegevensbronnen van derden om aanvullende informatie op te halen die kan worden gebruikt op een reis voor:
+[!UICONTROL Journey Orchestration] maakt het mogelijk verbinding te maken met Adobe Experience Platform of andere gegevensbronnen van derden om aanvullende informatie op te halen die kan worden gebruikt voor:
 
 * Omschrijving van de voorwaarden
 * Parameters en aanpassingsgegevens in handelingen
@@ -28,11 +28,11 @@ ht-degree: 0%
 
 Deze configuratie is niet vereist als uw reis slechts lokale gegevens die uit een gebeurtenislading komen gebruikt.
 
-In de volgende video wordt uitgelegd hoe u dit doet: Vorm een gegevensbron van het Platform van de Ervaring en een externe gegevensbron, evenals om gegevens in een reis te vinden en te gebruiken.
+In de volgende video wordt uitgelegd hoe u dit doet: Vorm een gegevensbron van het Experience Platform en een externe gegevensbron, evenals om gegevens in een reis te vinden en te gebruiken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12)
 
-## Aanvullende bronnen
+## Aanvullende resources
 
-* [Reisorchestratie Help Center](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
-   * [Gegevensbronnen](https://docs.adobe.com/content/help/en/journeys/using/data-source-journeys/about-data-sources.html)
+* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/nl-NL/journeys/using/journey-orchestration-home.html):
+   * [Informatie over databronnen](https://docs.adobe.com/content/help/en/journeys/using/data-source-journeys/about-data-sources.html)
