@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/nl-NL/journey-orchestration-l
 getting-started-title: Help Center
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/journeys/using/journey-orchestration-home.html
 translation-type: tm+mt
-source-git-commit: a8d066e15a4ab664b86a1bc8975b1b3f6414bf90
+source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 88%
+source-wordcount: '97'
+ht-degree: 85%
 
 ---
 
@@ -26,7 +26,9 @@ ht-degree: 88%
 + [Segmentkwalificatiegebeurtenissen gebruiken](/help/using-segment-qualification-events.md)
 + [Databronnen configureren](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [Acties configureren](/help/configuring-journey-orchestration/configure-actions.md)
-+ [Een journey maken](/help/create-a-journey.md)
++ Een journey samenstellen{#building-a-journey}
+   + [Een journey maken](/help/building-a-journey/creating-a-journey.md)
+   + [Naar een andere reis springen](/help/building-a-journey/jumping-to-another-journey.md)
 + [Een journey valideren en publiceren](/help/validate-and-publish-a-journey.md)
 + [Een journey analyseren via rapportagetools](/help/analyze-a-journey-via-reporting-tools.md)
 + [Journeystapgebeurtenissen rapporteren aan Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
