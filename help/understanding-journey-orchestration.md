@@ -9,7 +9,7 @@ audience: user, developer
 doc-type: video
 activity: understand
 translation-type: tm+mt
-source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
+source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 100%
@@ -47,7 +47,7 @@ De belangrijkste stappen ter voorbereiding van het maken van journeys zijn:
 
 ## Een journey maken, publiceren en analyseren
 
-1. [Een journey maken](/help/create-a-journey.md)
+1. [Een journey maken](/help/building-a-journey/creating-a-journey.md)
 1. [Een journey valideren en publiceren](/help/validate-and-publish-a-journey.md)
 1. [Een journey analyseren via rapportagetools](/help/analyze-a-journey-via-reporting-tools.md)
 
