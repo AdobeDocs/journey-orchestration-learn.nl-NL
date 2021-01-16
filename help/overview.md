@@ -3,10 +3,10 @@ title: Tutorials voor Journey Orchestration - Overzicht
 description: Met Journey Orchestration kunt u realtimegebruiksscenario’s voor orkestratie maken door gebruik te maken van contextafhankelijke data die zijn opgeslagen in gebeurtenissen of databronnen
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
+source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 100%
+source-wordcount: '203'
+ht-degree: 93%
 
 ---
 
@@ -17,14 +17,10 @@ ht-degree: 100%
 
 ## Nieuwe functies
 
-* **[Journeystapgebeurtenissen rapporteren aan Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)**
+* **[Naar een andere reis springen](/help/building-a-journey/jumping-to-another-journey.md)**
 
    <br>
-   *Leer wat journeystapgebeurtenissen zijn, welke gegevensstappen automatisch op Experience Platform worden gemaakt en hoe u deze kunt verkennen.*
-* **[Segmentkwalificatiegebeurtenissen gebruiken](/help/using-segment-qualification-events.md)**
-
-   <br>
-   *Deze video biedt een korte inleiding over het maken van een journey met een segmentkwalificatiegebeurtenis als aankomst- of vertrekpunt.*
+   *Leer hoe u individuen van de ene reis naar de andere kunt duwen.*
 
 ## Personeelsselectie
 
