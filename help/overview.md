@@ -3,7 +3,7 @@ title: Tutorials voor Journey Orchestration - Overzicht
 description: Met Journey Orchestration kunt u realtimegebruiksscenario’s voor orkestratie maken door gebruik te maken van contextafhankelijke data die zijn opgeslagen in gebeurtenissen of databronnen
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
+source-git-commit: c48c2e522fee95651f1a7b68cf17d6242c898242
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 93%
@@ -40,11 +40,11 @@ ht-degree: 93%
     <p>
   </td>
   <td>
-    <a href="./create-a-journey.md">
+    <a href="./building-a-journey/creating-a-journey.md">
         <img alt="Een journey maken (video)" src="./assets/journey34.png"/>
     </a>
     <div>
-      <a href="./create-a-journey.md">
+      <a href="./building-a-journey/creating-a-journey.md">
     <strong>Een journey maken (video)</strong>
     </a>
     </div>
