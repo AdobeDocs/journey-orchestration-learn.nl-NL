@@ -1,6 +1,6 @@
 ---
-title: Naar een andere reis springen
-description: 'Leer hoe u individuen van de ene reis naar de andere kunt duwen. '
+title: Van de ene journey naar de andere gaan
+description: 'Leer hoe u individuele gebruikers van de ene journey naar de andere kunt sturen. '
 feature: Journey Orchestration
 topics: activity
 kt: 6695
@@ -9,27 +9,27 @@ audience: user
 doc-type: video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Naar een andere reis springen
+# Van de ene journey naar de andere gaan
 
-Leer hoe u individuen van de ene reis naar de andere kunt duwen.
+Leer hoe u individuele gebruikers van de ene journey naar de andere kunt sturen.
 
-Met de handeling Snelheid kunt u:
+Met de actieactiviteit Springen kunt u:
 
-* Vereenvoudig het ontwerp van zeer complexe reizen door deze in verschillende te splitsen
-* Reizen bouwen op basis van gangbare en herbruikbare reispatronen
+* het ontwerp van zeer complexe journey’s vereenvoudigen door deze op te splitsen in afzonderlijke journey’s
+* journey’s samenstellen op basis van veelgebruikte en herbruikbare journeypatronen
 
->[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12&captions=dut)
 
 ## Aanvullende bronnen
 
-* [Van de ene reis naar de andere (productdocumentatie)](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/action-activities/jump.html?lang=en#building-journeys)
+* [Van de ene journey naar de andere gaan (productdocumentatie)](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/action-activities/jump.html?lang=en#building-journeys)
 
