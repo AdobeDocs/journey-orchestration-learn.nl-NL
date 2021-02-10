@@ -6,18 +6,18 @@ type: Tutorial
 mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/journey-orchestration-learn.nl-NL
 index: false
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a8d066e15a4ab664b86a1bc8975b1b3f6414bf90
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
 
 # Metagegevens voor intern gebruik
 
-Het bestand metadata.md bevat metagegevens op niveau van de opslagplaats die worden doorgegeven aan TOC.md-bestanden van de gebruikershandleiding in de opslagplaats. Als u de content van metadata.md voor om het even welke gebruikershandleiding wilt veranderen, doet u dit in om het even welk TOC.md-bestand.
+Het bestand metadata.md bevat metagegevens op niveau van de repository die worden doorgegeven aan TOC.md-bestanden van de gebruikershandleiding in de repository. Als u de content van metadata.md voor om het even welke gebruikershandleiding wilt veranderen, doet u dit in om het even welk TOC.md-bestand.
 
 | metadata | wat het doet |
 |--- |--- |
@@ -27,7 +27,7 @@ Het bestand metadata.md bevat metagegevens op niveau van de opslagplaats die wor
 | getting-started-url | Koppeling naar pagina om aan de slag te gaan met helpx |
 | tutorials-url | Koppeling naar videotutorials: helpx-tutorials of KT-tutorials |
 | mini-toc-levels | Hiermee bepaalt u het aantal kopniveaus dat wordt weergegeven in de rechterrail. standaard is dit 2 |
-| git-repo | Hiermee wordt de locatie van de primaire opslagplaats voor intern gebruik opgegeven |
+| git-repo | Hiermee wordt de locatie van de primaire repository voor intern gebruik opgegeven |
 
 In TOC.md-bestand
 
