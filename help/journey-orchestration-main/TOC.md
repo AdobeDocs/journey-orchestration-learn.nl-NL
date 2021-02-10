@@ -1,7 +1,7 @@
 ---
 product: journey orchestration
 user-guide-title: Journey Orchestration-tutorials
-user-guide-description: Leer hoe u een reis configureert, maakt, publiceert en analyseert.
+user-guide-description: Leer hoe u een journey kunt configureren, maken, publiceren en analyseren.
 user-guide-url: https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Journey+Orchestration#recommended/solutions/journey-orchestration
@@ -9,11 +9,11 @@ tutorials-title: Tutorials
 tutorials-url: https://docs.adobe.com/content/help/nl-NL/journey-orchestration-learn/tutorials/overview.html
 getting-started-title: Help Center
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/journeys/using/journey-orchestration-home.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2af08154744d0ae8b9107b2abf3fe2bdcae73ac5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 82%
 + [Segmentkwalificatiegebeurtenissen gebruiken](/help/using-segment-qualification-events.md)
 + [Databronnen configureren](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [Acties configureren](/help/configuring-journey-orchestration/configure-actions.md)
-+ Een reis maken {#building-a-journey}
++ Een journey samenstellen {#building-a-journey}
    + [Een journey maken](/help/building-a-journey/creating-a-journey.md)
-   + [Naar een andere reis springen](/help/building-a-journey/jumping-to-another-journey.md)
+   + [Van de ene journey naar de andere gaan](/help/building-a-journey/jumping-to-another-journey.md)
 + [Een journey valideren en publiceren](/help/validate-and-publish-a-journey.md)
 + [Een journey analyseren via rapportagetools](/help/analyze-a-journey-via-reporting-tools.md)
 + [Journeystapgebeurtenissen rapporteren aan Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
