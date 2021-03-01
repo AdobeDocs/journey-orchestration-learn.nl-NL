@@ -11,8 +11,8 @@ activity: setup
 translation-type: tm+mt
 source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 25%
+source-wordcount: '255'
+ht-degree: 26%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 25%
 * de directe acties van een individu (bijvoorbeeld een product hebben gekocht, een winkel hebben bezocht of een online winkelwagentje hebben verlaten), of
 * Iets dat gebeurde en dat verband houdt met het individu (zo bereikten ze 10.000 loyaliteitspunten)
 
-[!UICONTROL Journey Orchestration] de gebeurtenissen  [!UICONTROL XDM experience events] worden via  [!UICONTROL streaming ingestion]de Adobe Experience Platform verzonden.
+[!UICONTROL Journey Orchestration] de gebeurtenissen worden  [!UICONTROL XDM experience events] via  [!UICONTROL streaming ingestion]naar de Adobe Experience Platform verzonden.
 
 >[!NOTE]
 >
