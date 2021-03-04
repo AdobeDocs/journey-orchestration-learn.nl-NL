@@ -1,18 +1,19 @@
 ---
 title: 'Journeystapgebeurtenissen rapporteren aan Adobe Experience Platform '
-description: In de volgende video wordt uitgelegd wat journeystapgebeurtenissen zijn, welke gegevensstappen automatisch op Experience Platform worden gemaakt en hoe u deze kunt verkennen.
-feature: Journey Orchestration
+description: Begrijp welke gebeurtenissen van de reisstap zijn en welke gegevensstappen zijn en hoe te om hen te onderzoeken.
+feature: Reizen
 topics: Introduction
 kt: 5488
 thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
+role: Bedrijfs Praktijk, Beheerder
 translation-type: tm+mt
-source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 100%
+source-wordcount: '95'
+ht-degree: 78%
 
 ---
 
