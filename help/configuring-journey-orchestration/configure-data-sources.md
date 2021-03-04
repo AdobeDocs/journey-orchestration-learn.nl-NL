@@ -1,18 +1,19 @@
 ---
 title: Gegevensbronnen configureren voor Adobe Journey Orchestration
-description: Met Journey Orchestration kunt u verbinding maken met Adobe Experience Platform of andere systemen van derden om aanvullende informatie op te halen. Dit leerprogramma verklaart hoe te om de Gegevensbron van het Experience Platform te vormen, een externe gegevensbron te vormen, gegevens in een reis te vinden en te gebruiken.
-feature: Journey Orchestration
+description: '"Leer hoe te om de Gegevensbron van het Experience Platform te vormen, een externe gegevensbron te vormen, en gegevens in een reis te vinden en te gebruiken."'
+feature: Gegevensbronnen
 topics: Data Sources
 kt: 2774
 thumbnail: 29406.jpg
 audience: developer
 doc-type: video
 activity: setup
+role: Beheerder
 translation-type: tm+mt
-source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
+source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 12%
+source-wordcount: '144'
+ht-degree: 13%
 
 ---
 
