@@ -1,18 +1,19 @@
 ---
 title: Een reis valideren en publiceren
-description: U kunt uw reis vóór zijn publicatie testen, gebruikend testprofielen. Dit staat u toe om te analyseren hoe de individuen in de reis stromen en problemen vóór publicatie oplossen.
-feature: Journey Orchestration
+description: '"Leer hoe u uw reis kunt testen voordat deze wordt gepubliceerd met testprofielen. ’'
+feature: Reizen
 topics: Test and publish a journey
 kt: 2778
 thumbnail: 30066.jpg
 audience: user
 doc-type: video
 activity: use
+role: Bedrijfs Praktijk, Beheerder
 translation-type: tm+mt
-source-git-commit: 56b3abb5d3a69a516d45eb889932c6036ce54798
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 26%
+source-wordcount: '112'
+ht-degree: 28%
 
 ---
 
