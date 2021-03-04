@@ -1,18 +1,19 @@
 ---
 title: Segmentkwalificatiegebeurtenissen gebruiken
-description: Deze video biedt een korte inleiding over waar u segmenten kunt configureren en hoe u een segmentkwalificatiegebeurtenis in een journey kunt configureren.
-feature: Journey Orchestration
+description: Leer waar te om segmenten te vormen en hoe te om een gebeurtenis van de segmentkwalificatie in een reis te vormen.
+feature: Segmenten, gebeurtenissen
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
+role: Bedrijfs Praktijk, Beheerder
 translation-type: tm+mt
-source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 100%
+source-wordcount: '137'
+ht-degree: 84%
 
 ---
 
