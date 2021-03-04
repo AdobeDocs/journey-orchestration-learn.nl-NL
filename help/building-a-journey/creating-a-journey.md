@@ -1,18 +1,19 @@
 ---
 title: Een journey maken met Adobe Journey Orchestration
-description: In de volgende video hieronder wordt uitgelegd hoe u een nieuwe journey kunt maken, hoe u begint met een gebeurtenis, hoe u orkestraties gebruikt om de stroom en het tijdstip van een journey te bepalen en hoe u acties kunt gebruiken om in te grijpen op bepaalde punten van de journey.
-feature: Journey Orchestration
+description: '"Leer hoe u een nieuwe reis kunt maken, begint met een gebeurtenis, organisatiebesturingselementen gebruikt om de doorloop en het tijdstip van een reis te bepalen en Handelingen gebruikt om punten in de reis te betreden."'
+feature: Reizen
 topics: Create a journey
 kt: 2789
 thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: ht
-source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
-workflow-type: ht
+role: Bedrijfs Praktijk, Beheerder
+translation-type: tm+mt
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 100%
+ht-degree: 66%
 
 ---
 
@@ -25,7 +26,7 @@ In de volgende video hieronder wordt uitgelegd hoe u dit kunt doen:
 * [!UICONTROL Orchestration]-besturingselementen gebruiken om de stroom en het tijdstip van een journey te bepalen
 * Acties gebruiken om in te grijpen op bepaalde punten in de journey.
 
->[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
 
 ## Aanvullende resources
 
