@@ -1,7 +1,7 @@
 ---
 title: Van de ene journey naar de andere gaan
 description: 'Leer hoe u individuele gebruikers van de ene journey naar de andere kunt sturen. '
-feature: Journey Orchestration
+feature: Reizen
 topics: activity
 kt: 6695
 thumbnail: 330560.jpg
@@ -9,11 +9,12 @@ audience: user
 doc-type: video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
-workflow-type: ht
-source-wordcount: '79'
-ht-degree: 100%
+role: Bedrijfs Praktijk, Beheerder
+translation-type: tm+mt
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+workflow-type: tm+mt
+source-wordcount: '83'
+ht-degree: 95%
 
 ---
 
@@ -27,7 +28,7 @@ Met de actieactiviteit Springen kunt u:
 * het ontwerp van zeer complexe journey’s vereenvoudigen door deze op te splitsen in afzonderlijke journey’s
 * journey’s samenstellen op basis van veelgebruikte en herbruikbare journeypatronen
 
->[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12)
 
 ## Aanvullende bronnen
 
