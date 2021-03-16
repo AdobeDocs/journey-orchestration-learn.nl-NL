@@ -4,10 +4,10 @@ description: Met Journey Orchestration kunt u realtimegebruiksscenario’s voor 
 products: Journey orchestration
 role: Bedrijfs Praktijk, Beheerder
 translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 98%
+source-wordcount: '209'
+ht-degree: 97%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 98%
 
 ## Nieuwe functies
 
+* **[Profielactie bijwerken](/help/building-a-journey/update-profile-action.md)**
 * **[Van de ene journey naar de andere gaan](/help/building-a-journey/jumping-to-another-journey.md)**
-
    <br>
    *Leer hoe u individuele gebruikers van de ene journey naar de andere kunt sturen.*
 
