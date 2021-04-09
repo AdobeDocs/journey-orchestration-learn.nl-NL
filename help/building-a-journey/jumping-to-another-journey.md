@@ -1,7 +1,7 @@
 ---
 title: Van de ene journey naar de andere gaan
 description: 'Leer hoe u individuele gebruikers van de ene journey naar de andere kunt sturen. '
-feature: Reizen
+feature: Journeys
 topics: activity
 kt: 6695
 thumbnail: 330560.jpg
@@ -9,15 +9,15 @@ audience: user
 doc-type: video
 activity: use
 team: PM
-role: Bedrijfs Praktijk, Beheerder
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
-workflow-type: tm+mt
+role: Business Practitioner, Beheerder
+exl-id: 185c5c83-5444-4592-b113-732ee561f55a
+translation-type: ht
+source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
-
 
 # Van de ene journey naar de andere gaan
 
@@ -32,5 +32,4 @@ Met de actieactiviteit Springen kunt u:
 
 ## Aanvullende bronnen
 
-* [Van de ene journey naar de andere gaan (productdocumentatie)](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/action-activities/jump.html?lang=en#building-journeys)
-
+* [Van de ene journey naar de andere gaan (productdocumentatie)](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/action-activities/jump.html?lang=nl#building-journeys)
