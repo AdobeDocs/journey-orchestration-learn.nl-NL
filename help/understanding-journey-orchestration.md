@@ -8,12 +8,12 @@ thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-role: Bedrijfs Praktijk, Beheerder
-translation-type: tm+mt
+role: Business Practitioner, Beheerder
+translation-type: ht
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '330'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -44,7 +44,7 @@ De belangrijkste stappen ter voorbereiding van het maken van journeys zijn:
 
 >[!NOTE]
 >
->Deze configuratiestappen vereisen technische kennis. U dient vertrouwd te zijn met het [data-ervaringmodel (XDM)](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html) en [het samenstellen van XDM-schema’s voor ervaringsgebeurtenissen](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html).
+>Deze configuratiestappen vereisen technische kennis. U dient vertrouwd te zijn met het [data-ervaringmodel (XDM)](https://docs.adobe.com/content/help/zh-Hant/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html) en [het samenstellen van XDM-schema’s voor ervaringsgebeurtenissen](https://docs.adobe.com/content/help/zh-Hant/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html).
 
 ## Een journey maken, publiceren en analyseren
 
@@ -55,7 +55,7 @@ De belangrijkste stappen ter voorbereiding van het maken van journeys zijn:
 ## Aanvullende resources
 
 * [Journey Orchestration Help Center](https://docs.adobe.com/content/help/nl-NL/journeys/using/journey-orchestration-home.html)
-* [Tutorials voor Adobe Experience Platform](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Tutorials voor Adobe Experience Platform](https://docs.adobe.com/content/help/nl-NL/platform-learn/tutorials/overview.html)
 * [Hulp krijgen voor Journey Orchestration](/help/understanding-journey-orchestration.md)
-* [Adobe Experience Platform Mobile SDK - Starten](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
+* [Adobe Experience Platform Mobile SDK - Starten](https://docs.adobe.com/content/help/nl-NL/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 * [Adobe Experience Platform-locatieservice](https://docs.adobe.com/content/help/nl-NL/places/using/home.html)
