@@ -9,12 +9,12 @@ tutorials-title: Tutorials
 tutorials-url: https://docs.adobe.com/content/help/nl-NL/journey-orchestration-learn/tutorials/overview.html
 getting-started-title: Help Center
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/journeys/using/journey-orchestration-home.html
-level: Begin
-translation-type: tm+mt
+level: Beginner
+translation-type: ht
 source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
