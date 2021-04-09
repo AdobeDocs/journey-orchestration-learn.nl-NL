@@ -1,6 +1,6 @@
 ---
 title: Een journey analyseren via rapportagetools
-description: '"Leer hoe u kunt navigeren naar rapportage voor uw journey, hoe u datumbereiken voor uw rapport kunt aanpassen en hoe u een rapportagesjabloon voor toekomstig gebruik kunt opslaan."'
+description: '"Leer hoe u navigeert naar de rapportages voor uw journey, hoe u datumbereiken voor uw rapport aanpast en hoe u een rapportagesjabloon voor toekomstig gebruik opslaat."'
 feature: Rapporten
 topics: Introduction
 kt: 2777
@@ -8,15 +8,15 @@ thumbnail: 29321.jpg
 audience: user
 doc-type: video
 activity: use
-role: Bedrijfs Praktijk, Beheerder
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
-workflow-type: tm+mt
+role: Business Practitioner, Beheerder
+exl-id: f6f13fba-d815-424f-86e5-918577609882
+translation-type: ht
+source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
-
 
 # Een journey analyseren via rapportagetools
 
