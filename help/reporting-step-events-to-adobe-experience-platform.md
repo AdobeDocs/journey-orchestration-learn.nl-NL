@@ -1,14 +1,14 @@
 ---
 title: 'Journeystapgebeurtenissen rapporteren aan Adobe Experience Platform '
 description: Begrijp welke gebeurtenissen van de reisstap zijn en welke gegevensstappen zijn en hoe te om hen te onderzoeken.
-feature: Reizen
+feature: Journeys
 topics: Introduction
 kt: 5488
 thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
-role: Bedrijfs Praktijk, Beheerder
+role: Business Practitioner, Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt

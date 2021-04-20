@@ -1,14 +1,14 @@
 ---
 title: Een journey analyseren via rapportagetools
 description: '"Leer hoe u navigeert naar de rapportages voor uw journey, hoe u datumbereiken voor uw rapport aanpast en hoe u een rapportagesjabloon voor toekomstig gebruik opslaat."'
-feature: Rapporten
+feature: Reports
 topics: Introduction
 kt: 2777
 thumbnail: 29321.jpg
 audience: user
 doc-type: video
 activity: use
-role: Business Practitioner, Beheerder
+role: Business Practitioner, Administrator
 exl-id: f6f13fba-d815-424f-86e5-918577609882
 translation-type: ht
 source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829

@@ -1,14 +1,14 @@
 ---
 title: Een reis valideren en publiceren
 description: '"Leer hoe u uw reis kunt testen voordat deze wordt gepubliceerd met testprofielen. ’'
-feature: Reizen
+feature: Journeys
 topics: Test and publish a journey
 kt: 2778
 thumbnail: 30066.jpg
 audience: user
 doc-type: video
 activity: use
-role: Bedrijfs Praktijk, Beheerder
+role: Business Practitioner, Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt

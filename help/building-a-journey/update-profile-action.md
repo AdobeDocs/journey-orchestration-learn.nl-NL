@@ -1,7 +1,7 @@
 ---
 title: Profielactie bijwerken
 description: Leer hoe u een bestaand Adobe Experience Platform-profiel bijwerkt met een specifieke waarde of met informatie die afkomstig is van een gebeurtenis of een gegevensbron.
-feature: Acties
+feature: Actions
 kt: 7313
 thumbnail: 332112.jpg
 role: Business Practitioner

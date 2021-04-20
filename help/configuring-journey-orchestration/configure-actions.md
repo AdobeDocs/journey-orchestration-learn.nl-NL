@@ -1,14 +1,14 @@
 ---
 title: Handelingen configureren voor Adobe Journey Orchestration
 description: Leer hoe te om een actie voor Journey Orchestration te vormen en hoe te om het in een reis te gebruiken.
-feature: Handelingen
+feature: Actions
 topics: Custom Actions
 kt: 2775
 thumbnails: 29638.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: Beheerder
+role: Administrator
 translation-type: tm+mt
 source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Journey Orchestration begrijpen
 description: '"Begrijp het concept van Journey Orchestration, de soorten gebruiksscenario’s die mogelijk zijn en de belangrijkste elementen van hoe Journey Orchestration werkt."'
-feature: Overzicht
+feature: Overview
 topics: Introduction
 kt: 2773
 thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-role: Business Practitioner, Beheerder
+role: Business Practitioner, Administrator
 translation-type: ht
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: ht

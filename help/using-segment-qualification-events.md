@@ -1,14 +1,14 @@
 ---
 title: Segmentkwalificatiegebeurtenissen gebruiken
 description: Leer waar te om segmenten te vormen en hoe te om een gebeurtenis van de segmentkwalificatie in een reis te vormen.
-feature: Segmenten, gebeurtenissen
+feature: Segments, Events
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
-role: Bedrijfs Praktijk, Beheerder
+role: Business Practitioner, Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
