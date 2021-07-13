@@ -1,18 +1,17 @@
 ---
 title: Journey Orchestration begrijpen
 description: '"Begrijp het concept van Journey Orchestration, de soorten gebruiksscenario’s die mogelijk zijn en de belangrijkste elementen van hoe Journey Orchestration werkt."'
-feature: Overview
+feature: Overzicht
 topics: Introduction
 kt: 2773
 thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-role: Business Practitioner, Administrator
-translation-type: ht
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
-workflow-type: ht
-source-wordcount: '330'
+role: User, Admin
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+workflow-type: tm+mt
+source-wordcount: '327'
 ht-degree: 100%
 
 ---
@@ -52,7 +51,7 @@ De belangrijkste stappen ter voorbereiding van het maken van journeys zijn:
 1. [Een journey valideren en publiceren](/help/validate-and-publish-a-journey.md)
 1. [Een journey analyseren via rapportagetools](/help/analyze-a-journey-via-reporting-tools.md)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 * [Journey Orchestration Help Center](https://docs.adobe.com/content/help/nl-NL/journeys/using/journey-orchestration-home.html)
 * [Tutorials voor Adobe Experience Platform](https://docs.adobe.com/content/help/nl-NL/platform-learn/tutorials/overview.html)
