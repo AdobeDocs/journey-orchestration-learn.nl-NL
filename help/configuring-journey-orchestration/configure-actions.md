@@ -1,22 +1,21 @@
 ---
 title: Handelingen configureren voor Adobe Journey Orchestration
 description: Leer hoe te om een actie voor Journey Orchestration te vormen en hoe te om het in een reis te gebruiken.
-feature: Actions
+feature: Acties
 topics: Custom Actions
 kt: 2775
 thumbnails: 29638.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: Administrator
-translation-type: tm+mt
-source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
+role: Admin
+exl-id: dd116572-a9f1-4608-b04d-e02c17df9587
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 13%
+source-wordcount: '128'
+ht-degree: 14%
 
 ---
-
 
 # Configureren [!UICONTROL custom actions]
 
@@ -28,7 +27,7 @@ In de volgende video wordt uitgelegd hoe u een [!UICONTROL Action] voor [!UICONT
 
 >[!VIDEO](https://video.tv.adobe.com/v/29638?quality=12)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 * [Journey Orchestration Help Center](https://docs.adobe.com/content/help/nl-NL/journeys/using/journey-orchestration-home.html):
    * [Informatie over acties](https://docs.adobe.com/content/help/en/journeys/using/action-journeys/action.html)
