@@ -1,22 +1,21 @@
 ---
 title: Segmentkwalificatiegebeurtenissen gebruiken
 description: Leer waar te om segmenten te vormen en hoe te om een gebeurtenis van de segmentkwalificatie in een reis te vormen.
-feature: Segments, Events
+feature: Segmenten, gebeurtenissen
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
-role: Business Practitioner, Administrator
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+role: User, Admin
+exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 84%
+source-wordcount: '134'
+ht-degree: 86%
 
 ---
-
 
 # Segmentkwalificatiegebeurtenissen gebruiken
 
@@ -31,7 +30,7 @@ Deze video biedt een korte inleiding over waar u segmenten kunt configureren en 
 
 >[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 Documentatie:
 
