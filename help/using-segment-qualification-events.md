@@ -1,7 +1,7 @@
 ---
 title: Segmentkwalificatiegebeurtenissen gebruiken
 description: Leer waar te om segmenten te vormen en hoe te om een gebeurtenis van de segmentkwalificatie in een reis te vormen.
-feature: Segmenten, gebeurtenissen
+feature: Segments, Events
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
@@ -10,16 +10,16 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 86%
+source-wordcount: '135'
+ht-degree: 61%
 
 ---
 
 # Segmentkwalificatiegebeurtenissen gebruiken
 
-Met een segmentkwalificatiegebeurtenis kan uw journey luisteren naar de aankomst en het vertrek van profielen in Adobe Experience Platform-segmenten, waardoor individuele gebruikers een journey kunnen starten of voortzetten.
+Met een segmentkwalificatiegebeurtenis kunt u luisteren naar de items en uitgangen van profielen in Adobe Experience Platform-segmenten. Dit gebeurtenistype wordt gebruikt om individuen in een reis binnen te brengen of vooruit te bewegen.
 
 Voorbeelden van gebruiksscenario’s:
 

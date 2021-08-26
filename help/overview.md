@@ -1,19 +1,19 @@
 ---
 title: Tutorials voor Journey Orchestration - Overzicht
-description: Met Journey Orchestration kunt u realtimegebruiksscenario’s voor orkestratie maken door gebruik te maken van contextafhankelijke data die zijn opgeslagen in gebeurtenissen of databronnen
+description: Met Journey Orchestration kunt u in real-time gebruikmaken van scenario's voor orkestgebruik met gebruik van contextafhankelijke gegevens die zijn opgeslagen in gebeurtenissen of gegevensbronnen
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 100%
+source-wordcount: '205'
+ht-degree: 62%
 
 ---
 
 # Overzicht
 
-[!UICONTROL Journey Orchestration] is een applicatieservice die met het Adobe Experience Platform is geïntegreerd. Zo kunt u realtimegebruiksscenario’s voor orkestratie maken door gebruik te maken van contextafhankelijke data die zijn opgeslagen in gebeurtenissen of databronnen.
+[!UICONTROL Journey Orchestration] is een applicatieservice die met het Adobe Experience Platform is geïntegreerd. Het staat u toe om in real time te bouwen het gebruiksgevallen van het orkestgebruik gebruikend contextuele gegevens die in gebeurtenissen of gegevensbronnen worden opgeslagen.
 
 ## Nieuwe functies
 
@@ -49,7 +49,7 @@ ht-degree: 100%
     </a>
     </div>
     <p>
-    <em>Leer hoe u een nieuwe journey kunt maken, hoe u begint met een gebeurtenis, hoe u orkestraties gebruikt om de stroom en het tijdstip van een journey te bepalen en hoe u acties kunt gebruiken om in te grijpen op bepaalde punten van de journey.</em>
+    <em>Leer hoe u een reis maakt, begint met een evenement, orkestaties gebruikt om de doorstroming en timing van een reis te controleren en acties gebruikt om op punten van de reis te beginnen.</em>
     <p>
   </td>
   <td>
@@ -70,5 +70,5 @@ ht-degree: 100%
 
 ## Aanvullende bronnen
 
-* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/nl-NL/journeys/using/journey-orchestration-home.html)
-* [Tutorials voor Adobe Experience Platform](https://docs.adobe.com/content/help/nl-NL/platform-learn/tutorials/overview.html)
+* [Journey Orchestration Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=nl)
+* [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
