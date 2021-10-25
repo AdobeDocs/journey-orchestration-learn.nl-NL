@@ -10,9 +10,9 @@ doc-type: video
 activity: understand
 role: User, Admin
 source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '324'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 63%
 
 ## Inleiding tot [!UICONTROL Journey Orchestration]
 
-[!UICONTROL Journey Orchestration] kunt u in real-time het gebruikscenario van het orkestgebruik bouwen gebruikend contextuele gegevens die in gebeurtenissen of gegevensbronnen worden opgeslagen.
+Met [!UICONTROL Journey Orchestration] kun je realtimegebruiksscenario’s voor orkestratie maken door gebruik te maken van contextafhankelijke gegevens die zijn opgeslagen in gebeurtenissen of databronnen.
 
-[!UICONTROL Journey Orchestration] is een applicatieservice die met het Adobe Experience Platform is geïntegreerd. Het biedt een intelligent en open ecosysteem om alle relevante live data te activeren via schaalbare, op gebeurtenissen gebaseerde betrokkenheid over elk kanaal dat uw bedrijf nodig heeft, van marketing tot activiteiten tot service. [!UICONTROL Journey Orchestration] kan om het even welke gegevens van Adobe Experience Platform en om het even welk extern leveringssysteem gebruiken om dwingende ervaringen tot stand te brengen en te leveren.
+[!UICONTROL Journey Orchestration] is een applicatieservice die met het Adobe Experience Platform is geïntegreerd. Het biedt een intelligent en open ecosysteem om alle relevante live data te activeren via schaalbare, op gebeurtenissen gebaseerde betrokkenheid over elk kanaal dat uw bedrijf nodig heeft, van marketing tot activiteiten tot service. [!UICONTROL Journey Orchestration] kan alle data van het Adobe Experience Platform en elk extern leveringssysteem gebruiken om aantrekkelijke ervaringen te creëren en te leveren.
 
 De video hieronder laat het volgende zien
 
@@ -38,12 +38,12 @@ De video hieronder laat het volgende zien
 De belangrijkste stappen ter voorbereiding van het maken van journeys zijn:
 
 1. [Streaminggebeurtenissen configureren](/help/configuring-journey-orchestration/configure-streaming-events.md) - Deze configuratie is verplicht, aangezien [!UICONTROL Journey Orchestration] is ontworpen om naar gebeurtenissen te luisteren.
-1. [Gegevensbronnen](/help/configuring-journey-orchestration/configure-data-sources.md)  configureren - Deze configuratie is niet vereist als uw reizen alleen lokale gegevens uit een gebeurtenislading gebruiken.
+1. [Databronnen configureren](/help/configuring-journey-orchestration/configure-data-sources.md) - Deze configuratie is niet vereist als je journey&#39;s alleen gebruikmaken van lokale gegevens die afkomstig zijn van een gebeurtenispayload.
 1. [Aangepaste acties configureren](/help/configuring-journey-orchestration/configure-actions.md) - Vereist als u een service wilt gebruiken van een externe provider die via een [!DNL REST API]-payload met JSON-indeling kan worden aangeroepen
 
 >[!NOTE]
 >
->Deze configuratiestappen vereisen technische kennis. U moet vertrouwd zijn met [het Model van de Gegevens van de Ervaring (XDM)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=en) en [hoe te om XDM ervaringsgebeurtenisschema&#39;s samen te stellen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=en).
+>Deze configuratiestappen vereisen technische kennis. Je moet vertrouwd zijn met het [Experience Data Model (XDM)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=nl) en [het samenstellen van XDM-schema’s voor ervaringsgebeurtenissen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=nl).
 
 ## Een journey maken, publiceren en analyseren
 
@@ -54,7 +54,7 @@ De belangrijkste stappen ter voorbereiding van het maken van journeys zijn:
 ## Aanvullende bronnen
 
 * [Journey Orchestration Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=nl)
-* [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
+* [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)
 * [Hulp krijgen voor Journey Orchestration](/help/understanding-journey-orchestration.md)
-* [Adobe Experience Platform Mobile SDK - Starten](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=en)
-* [Adobe Experience Platform-locatieservice](https://experienceleague.adobe.com/docs/places/using/home.html?lang=en)
+* [Adobe Experience Platform Mobile SDK - Starten](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=nl)
+* [Adobe Experience Platform-locatieservice](https://experienceleague.adobe.com/docs/places/using/home.html?lang=nl)
