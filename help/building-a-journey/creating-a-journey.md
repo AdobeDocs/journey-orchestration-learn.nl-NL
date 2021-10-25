@@ -11,8 +11,8 @@ activity: use
 role: User, Admin
 exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
 source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
-workflow-type: tm+mt
-source-wordcount: '107'
+workflow-type: ht
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
@@ -29,5 +29,5 @@ In de volgende video hieronder wordt uitgelegd hoe u dit kunt doen:
 
 ## Aanvullende bronnen
 
-* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/nl-NL/journeys/using/journey-orchestration-home.html):
+* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/nl/journeys/using/journey-orchestration-home.html):
    * [Een journey maken](https://docs.adobe.com/content/help/nl-NL/journeys/using/building-journeys/about-journey-building/journey.html)
