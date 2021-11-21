@@ -23,7 +23,7 @@ U kunt uw reis vóór zijn publicatie testen, gebruikend testprofielen. Het test
 
 In de volgende video hieronder wordt uitgelegd hoe u dit kunt doen:
 
-* **[!UICONTROL test mode]** inschakelen en gebruiken om een reis te valideren
+* Inschakelen en gebruiken **[!UICONTROL test mode]** om een reis te bevestigen
 * Een reis publiceren en de status ervan beheren
 
 >[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12)

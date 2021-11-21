@@ -6,14 +6,13 @@ user-guide-url: https://docs.adobe.com/content/help/en/journey-orchestration-lea
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Journey+Orchestration#recommended/solutions/journey-orchestration
 tutorials-title: Tutorials
-tutorials-url: https://docs.adobe.com/content/help/nl-NL/journey-orchestration-learn/tutorials/overview.html
+tutorials-url: https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/overview.html
 getting-started-title: Help Center
-getting-started-url: https://docs.adobe.com/content/help/nl-NL/journeys/using/journey-orchestration-home.html
+getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html
 level: Beginner
-translation-type: ht
 source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
-workflow-type: ht
-source-wordcount: '101'
+workflow-type: tm+mt
+source-wordcount: '71'
 ht-degree: 100%
 
 ---
@@ -25,13 +24,13 @@ ht-degree: 100%
 + [Journey Orchestration begrijpen](/help/understanding-journey-orchestration.md)
 + [Streaminggebeurtenissen configureren](/help/configuring-journey-orchestration/configure-streaming-events.md)
 + [Segmentkwalificatiegebeurtenissen gebruiken](/help/using-segment-qualification-events.md)
-+ [Databronnen configureren](/help/configuring-journey-orchestration/configure-data-sources.md)
++ [Gegevensbronnen configureren](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [Acties configureren](/help/configuring-journey-orchestration/configure-actions.md)
 + Een journey samenstellen {#building-a-journey}
-   + [Een journey maken](/help/building-a-journey/creating-a-journey.md)
+   + [Journey maken](/help/building-a-journey/creating-a-journey.md)
    + [Van de ene journey naar de andere gaan](/help/building-a-journey/jumping-to-another-journey.md)
    + [Profielactie bijwerken](/help/building-a-journey/update-profile-action.md)
 + [Een journey valideren en publiceren](/help/validate-and-publish-a-journey.md)
 + [Een journey analyseren via rapportagetools](/help/analyze-a-journey-via-reporting-tools.md)
-+ [Journeystapgebeurtenissen rapporteren aan Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
++ [Trajectstapgebeurtenissen aan Adobe Experience Platform melden](/help/reporting-step-events-to-adobe-experience-platform.md)
 + [Hulp krijgen voor Journey Orchestration](/help/how-to-find-help-with-journey-orchestration.md)
