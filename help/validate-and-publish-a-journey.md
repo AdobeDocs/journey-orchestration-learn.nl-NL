@@ -1,6 +1,6 @@
 ---
 title: Een reis valideren en publiceren
-description: '"Leer hoe u uw reis kunt testen voordat deze wordt gepubliceerd met testprofielen. ’'
+description: Leer hoe u uw reis vóór de publicatie ervan kunt testen met testprofielen.
 feature: Journeys
 topics: Test and publish a journey
 kt: 2778
@@ -10,7 +10,7 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: 63d89150-7c1e-4869-9c8d-0371e0c82ee1
-source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
+source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 30%

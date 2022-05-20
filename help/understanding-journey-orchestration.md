@@ -1,6 +1,6 @@
 ---
 title: Journey Orchestration begrijpen
-description: '"Begrijp het concept van Journey Orchestration, de soorten gebruiksscenario’s die mogelijk zijn en de belangrijkste elementen van hoe Journey Orchestration werkt."'
+description: Begrijp het concept van Journey Orchestration, de soorten gebruiksscenario’s die mogelijk zijn en de belangrijkste elementen van hoe Journey Orchestration werkt.
 feature: Overview
 topics: Introduction
 kt: 2773
@@ -9,19 +9,19 @@ audience: user, developer
 doc-type: video
 activity: understand
 role: User, Admin
-source-git-commit: f46e7dd5cbd60a16b5ab8a58a5a548735a3708fc
+exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
+source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 100%
 
 ---
 
-
 # [!UICONTROL Journey Orchestration] begrijpen
 
-## Inleiding tot [!UICONTROL Journey Orchestration]
-
 Met [!UICONTROL Journey Orchestration] kun je realtimegebruiksscenario’s voor orkestratie maken door gebruik te maken van contextafhankelijke gegevens die zijn opgeslagen in gebeurtenissen of databronnen.
+
+## Inleiding tot [!UICONTROL Journey Orchestration]
 
 [!UICONTROL Journey Orchestration] is een applicatieservice die met het Adobe Experience Platform is geïntegreerd. Het biedt een intelligent en open ecosysteem om alle relevante live data te activeren via schaalbare, op gebeurtenissen gebaseerde betrokkenheid over elk kanaal dat uw bedrijf nodig heeft, van marketing tot activiteiten tot service. [!UICONTROL Journey Orchestration] kan alle data van het Adobe Experience Platform en elk extern leveringssysteem gebruiken om aantrekkelijke ervaringen te creëren en te leveren.
 
@@ -58,4 +58,3 @@ De belangrijkste stappen ter voorbereiding van het maken van journeys zijn:
 * [Hulp krijgen voor Journey Orchestration](/help/understanding-journey-orchestration.md)
 * [Adobe Experience Platform Mobile SDK - Starten](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=nl)
 * [Adobe Experience Platform-locatieservice](https://experienceleague.adobe.com/docs/places/using/home.html?lang=nl)
-
