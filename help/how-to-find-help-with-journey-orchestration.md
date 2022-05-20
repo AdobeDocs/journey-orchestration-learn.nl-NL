@@ -1,6 +1,6 @@
 ---
 title: Hulp krijgen voor Journey Orchestration
-description: Begrijp hoe u gemakkelijk hulp kunt vinden
+description: Begrijp waar u snel antwoorden op uw vragen kunt vinden rond [!UICONTROL Journey Orchestration], hoe te om steun te contacteren, en waar te om steunkaartjes te registreren, en hoe u ons kunt terugkoppelen.
 feature: Overview
 topics: Help and Support
 kt: 4019
@@ -10,15 +10,15 @@ doc-type: video
 activity: understand
 role: User, Admin
 exl-id: 80fb9247-1e11-4eae-ab1e-b76f004714ed
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 86%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Hulp krijgen voor [!UICONTROL Journey Orchestration]
 
-In deze video wordt uitgelegd waar u snel antwoorden op uw vragen over [!UICONTROL Journey Orchestration] kunt vinden, hoe u contact kunt opnemen met ondersteuning, waar u ondersteuningstickets kunt registreren en hoe u feedback kunt geven.
+Begrijp waar u snel antwoorden op uw vragen kunt vinden rond [!UICONTROL Journey Orchestration], hoe te om steun te contacteren, en waar te om steunkaartjes te registreren, en hoe u ons kunt terugkoppelen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32010?quality=12)

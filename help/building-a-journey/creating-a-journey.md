@@ -10,24 +10,16 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
-source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
+source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '79'
+ht-degree: 59%
 
 ---
 
-# Een journey maken
 
-In de volgende video hieronder wordt uitgelegd hoe u dit kunt doen:
+# Een journey maken met Adobe Journey Orchestration
 
-* Een nieuwe journey maken en met een gebeurtenis beginnen
-* [!UICONTROL Orchestration]-besturingselementen gebruiken om de stroom en het tijdstip van een journey te bepalen
-* Acties gebruiken om in te grijpen op bepaalde punten in de journey.
+Leer hoe u een reis kunt maken, begint met een gebeurtenis, orkestbesturingselementen gebruikt om de doorloop en het tijdstip van een reis te bepalen en Handelingen gebruikt om op punten in de reis te gaan.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
-
-## Aanvullende bronnen
-
-* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/nl/journeys/using/journey-orchestration-home.html):
-   * [Een journey maken](https://docs.adobe.com/content/help/nl-NL/journeys/using/building-journeys/about-journey-building/journey.html)

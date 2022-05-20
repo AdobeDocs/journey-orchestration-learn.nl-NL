@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/en/journey-orchestration-lear
 getting-started-title: Help Center
 getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html
 level: Beginner
-source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
+source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 + [Gegevensbronnen configureren](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [Acties configureren](/help/configuring-journey-orchestration/configure-actions.md)
 + Een journey samenstellen {#building-a-journey}
-   + [Journey maken](/help/building-a-journey/creating-a-journey.md)
+   + [Een journey maken](/help/building-a-journey/creating-a-journey.md)
    + [Van de ene journey naar de andere gaan](/help/building-a-journey/jumping-to-another-journey.md)
    + [Profielactie bijwerken](/help/building-a-journey/update-profile-action.md)
 + [Een journey valideren en publiceren](/help/validate-and-publish-a-journey.md)

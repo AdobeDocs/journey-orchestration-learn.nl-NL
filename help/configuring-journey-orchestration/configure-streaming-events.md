@@ -10,10 +10,10 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
-source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
+source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 25%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,23 +21,23 @@ ht-degree: 25%
 
 [!UICONTROL Journey Orchestration] luistert naar gebeurtenissen en organiseert de beste volgende acties binnen de reis van de klant die op deze gebeurtenissen wordt gebaseerd. Een gebeurtenis kan betrekking hebben op:
 
-* de directe acties van een individu (bijvoorbeeld een product hebben gekocht, een winkel hebben bezocht of een online winkelwagentje hebben verlaten), of
-* Iets dat gebeurde en dat verband houdt met het individu (zo bereikten ze 10.000 loyaliteitspunten)
+* De directe acties van een individu (bijvoorbeeld: ze hebben een product gekocht, een winkel bezocht of een online winkelwagentje verlaten), of
+* Iets dat gebeurde dat met het individu verbonden was (ze bereikten bijvoorbeeld 10.000 loyaliteitspunten)
 
 [!UICONTROL Journey Orchestration] gebeurtenissen zijn [!UICONTROL XDM experience events] die via [!UICONTROL streaming ingestion].
 
 >[!NOTE]
 >
->U moet bekend zijn met:
+>U moet vertrouwd zijn met:
 >
->* [The Experience Data Model (XDM)](https://docs.adobe.com/content/help/zh-Hant/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
->* [XDM-schema&#39;s samenstellen voor ervaringsgebeurtenissen](https://docs.adobe.com/content/help/zh-Hant/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
->* [Streaming gegevensinsluiting](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
+>* [The Experience Data Model (XDM)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=nl)
+>* [XDM-schema&#39;s samenstellen voor ervaringsgebeurtenissen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=nl)
+>* [Streaming gegevensinsluiting](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=en)
 >
 >Als u de voorbeelden in de video wilt begrijpen, moet u zich ook vertrouwd maken met de volgende Adobe Experience Platform Services:
 >
->* [Adobe Experience Platform Mobile SDK - Starten](https://docs.adobe.com/content/help/nl-NL/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
->* [Adobe Experience Platform-locatieservice](https://docs.adobe.com/content/help/nl-NL/places/using/home.html)
+>* [Adobe Experience Platform Mobile SDK](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=en)
+>* [Adobe Experience Platform-locatieservice](https://experienceleague.adobe.com/docs/places/using/home.html?lang=nl)
 
 
 ## Hoe te vormen [!UICONTROL streaming events]
@@ -50,7 +50,4 @@ In de volgende video wordt uitgelegd hoe u dit doet:
 
 >[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12)
 
-## Aanvullende bronnen
-
-* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/nl/journeys/using/journey-orchestration-home.html):
-   * [Informatie over gebeurtenissen](https://docs.adobe.com/content/help/en/journeys/using/events-journeys/about-events.html)
+Zie voor meer informatie de [Gebeurtenissen](https://experienceleague.adobe.com/docs/journeys/using/events-journeys/about-events/about-events.html?lang=en) in de productdocumentatie.
