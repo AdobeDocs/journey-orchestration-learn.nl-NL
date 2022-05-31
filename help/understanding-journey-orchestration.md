@@ -11,15 +11,15 @@ activity: understand
 role: User, Admin
 exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
 source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '323'
+ht-degree: 100%
 
 ---
 
 # [!UICONTROL Journey Orchestration] begrijpen
 
-Met [!UICONTROL Journey Orchestration] kun je realtimegebruiksscenario’s voor orkestratie maken door gebruik te maken van contextafhankelijke gegevens die zijn opgeslagen in gebeurtenissen of databronnen.
+Met [!UICONTROL Journey Orchestration] kunt u realtimegebruiksscenario’s voor orkestratie maken door contextafhankelijke gegevens te gebruiken die zijn opgeslagen in gebeurtenissen of databronnen.
 
 ## Inleiding tot [!UICONTROL Journey Orchestration]
 
@@ -39,7 +39,7 @@ De belangrijkste stappen ter voorbereiding van het maken van journeys zijn:
 
 1. [Streaminggebeurtenissen configureren](/help/configuring-journey-orchestration/configure-streaming-events.md) - Deze configuratie is verplicht, aangezien [!UICONTROL Journey Orchestration] is ontworpen om naar gebeurtenissen te luisteren.
 1. [Databronnen configureren](/help/configuring-journey-orchestration/configure-data-sources.md) - Deze configuratie is niet vereist als je journey&#39;s alleen gebruikmaken van lokale gegevens die afkomstig zijn van een gebeurtenispayload.
-1. [Aangepaste handelingen configureren](/help/configuring-journey-orchestration/configure-actions.md): Vereist als u de dienst van om het even welke derdeleverancier wilt gebruiken die door kan worden geroepen [!DNL REST API] met een JSON-opgemaakte lading
+1. [Aangepaste acties configureren](/help/configuring-journey-orchestration/configure-actions.md) - Vereist als u een service wilt gebruiken van een externe provider die via een [!DNL REST API]-payload met JSON-indeling kan worden aangeroepen
 
 >[!NOTE]
 >
@@ -56,5 +56,5 @@ De belangrijkste stappen ter voorbereiding van het maken van journeys zijn:
 * [Journey Orchestration Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=nl)
 * [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)
 * [Hulp krijgen voor Journey Orchestration](/help/understanding-journey-orchestration.md)
-* [Adobe Experience Platform Mobile SDK - Starten](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=en)
+* [Adobe Experience Platform Mobile SDK - Starten](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=nl)
 * [Adobe Experience Platform-locatieservice](https://experienceleague.adobe.com/docs/places/using/home.html?lang=nl)
