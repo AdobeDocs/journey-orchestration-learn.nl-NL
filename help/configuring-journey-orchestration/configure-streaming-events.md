@@ -36,7 +36,7 @@ ht-degree: 0%
 >
 >Als u de voorbeelden in de video wilt begrijpen, moet u zich ook vertrouwd maken met de volgende Adobe Experience Platform Services:
 >
->* [Adobe Experience Platform Mobile SDK](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=en)
+>* [Adobe Experience Platform Mobile SDK](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=nl)
 >* [Adobe Experience Platform-locatieservice](https://experienceleague.adobe.com/docs/places/using/home.html?lang=nl)
 
 
