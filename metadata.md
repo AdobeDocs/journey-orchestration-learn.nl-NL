@@ -5,12 +5,11 @@ solution: Journey Orchestration
 feature-set: Journey Orchestration
 type: Tutorial
 mini-toc-levels: 3
-git-repo: https://git.corp.adobe.com/AdobeDocs/journey-orchestration-learn.nl-NL
+git-repo: https://github.com/AdobeDocs/journey-orchestration-learn.nl-NL
 index: false
-translation-type: ht
 source-git-commit: d9ab2c502519c6bf136056d92eaf6e7e6432f1f5
-workflow-type: ht
-source-wordcount: '131'
+workflow-type: tm+mt
+source-wordcount: '130'
 ht-degree: 100%
 
 ---
@@ -32,7 +31,7 @@ Het bestand metadata.md bevat metagegevens op niveau van de repository die worde
 
 In TOC.md-bestand
 
-| metadata | wat het doet |
+| metagegevens | wat het doet |
 |--- |--- |
 | user-guide-title | Gebruikt in artikelkoptekst als koppeling |
 | user-guide-url | Opent helpx-hubpagina |
