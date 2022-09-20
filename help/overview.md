@@ -1,24 +1,24 @@
 ---
-title: Journey Orchestration-tutorials
-description: Met Journey Orchestration kunt u realtimegebruiksscenario’s voor orkestratie maken door contextafhankelijke gegevens te gebruiken die zijn opgeslagen in gebeurtenissen of databronnen
+title: Tutorials voor Journey Orchestration - Overzicht
+description: Met Journey Orchestration kun je realtimegebruiksscenario’s voor orkestratie maken door gebruik te maken van contextafhankelijke gegevens die zijn opgeslagen in gebeurtenissen of databronnen
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
-workflow-type: ht
-source-wordcount: '206'
+source-git-commit: 88ee4113f06f310b68ead54a156372d78cb934aa
+workflow-type: tm+mt
+source-wordcount: '208'
 ht-degree: 100%
 
 ---
 
-# Journey Orchestration-tutorials
+# Tutorials voor Journey Orchestration - Overzicht
 
 [!UICONTROL Journey Orchestration] is een applicatieservice die met het Adobe Experience Platform is geïntegreerd. Zo kun je realtimegebruiksscenario’s voor orkestratie maken door gebruik te maken van contextafhankelijke gegevens die zijn opgeslagen in gebeurtenissen of databronnen.
 
 ## Nieuwe functies
 
 * **[Profielactie bijwerken](/help/building-a-journey/update-profile-action.md)**
-* **[Van de ene journey naar de andere gaan](/help/building-a-journey/jumping-to-another-journey.md)**
+* **[Naar een andere journey gaan](/help/building-a-journey/jumping-to-another-journey.md)**
    <br>
    *Leer hoe u individuele gebruikers van de ene journey naar de andere kunt sturen.*
 
@@ -62,7 +62,7 @@ ht-degree: 100%
     </a>
     </div>
     <p>
-    <em>Leer hoe u kunt navigeren naar rapportage voor uw journey, hoe u datumbereiken voor uw rapport kunt aanpassen en hoe u een rapportagesjabloon voor toekomstig gebruik kunt opslaan. </em>
+    <em>Leer hoe u navigeert naar de rapportages voor uw journey, hoe u datumbereiken voor uw rapport aanpast en hoe u een rapportagesjabloon voor toekomstig gebruik opslaat. </em>
     <p>
   </td>
 </tr>
