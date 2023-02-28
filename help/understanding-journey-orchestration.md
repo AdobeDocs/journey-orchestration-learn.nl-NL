@@ -1,6 +1,6 @@
 ---
 title: Journey Orchestration begrijpen
-description: Begrijp het concept van Journey Orchestration, de soorten gebruiksscenario’s die mogelijk zijn en de belangrijkste elementen van hoe Journey Orchestration werkt.
+description: Krijg inzicht in het concept van Journey Orchestration, welke soorten gebruiksscenario's mogelijk zijn en de belangrijkste elementen van de manier waarop Journey Orchestration werkt.
 feature: Overview
 topics: Introduction
 kt: 2773
@@ -12,8 +12,8 @@ role: User, Admin
 exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
 source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '323'
+ht-degree: 100%
 
 ---
 
@@ -54,7 +54,7 @@ De belangrijkste stappen ter voorbereiding van het maken van journeys zijn:
 ## Aanvullende bronnen
 
 * [Journey Orchestration Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=nl)
-* [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)
+* [Adobe Experience Platform-tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)
 * [Hulp krijgen voor Journey Orchestration](/help/understanding-journey-orchestration.md)
 * [Adobe Experience Platform Mobile SDK - Starten](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=nl)
 * [Adobe Experience Platform-locatieservice](https://experienceleague.adobe.com/docs/places/using/home.html?lang=nl)
