@@ -8,7 +8,7 @@ role: User
 activity: use
 team: PM
 exl-id: 5e45b702-2c99-49ad-ae00-65f7555acd09
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Leer hoe u een bestaand Adobe Experience Platform-profiel bijwerkt met een specifieke waarde of met informatie die afkomstig is van een gebeurtenis of een gegevensbron.
 
->[!VIDEO](https://video.tv.adobe.com/v/332112?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/332112?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
