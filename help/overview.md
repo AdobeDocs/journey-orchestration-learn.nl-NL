@@ -6,8 +6,8 @@ role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
 source-git-commit: 73eee54dae0f6a765e0dcd6bcab35cf67f891294
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '207'
+ht-degree: 98%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 0%
     </a>
     </div>
     <p>
-    <em>Begrijp het concept van Journey Orchestration, de soorten gebruiksscenario’s die mogelijk zijn en de belangrijkste elementen van hoe Journey Orchestration werkt.</em>
+    <em>Krijg inzicht in het concept van Journey Orchestration, welke soorten gebruiksscenario's mogelijk zijn en de belangrijkste elementen van de manier waarop Journey Orchestration werkt.</em>
     <p>
   </td>
   <td>
@@ -85,4 +85,4 @@ ht-degree: 0%
 ## Aanvullende bronnen
 
 * [Journey Orchestration Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=nl)
-* [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)
+* [Adobe Experience Platform-tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)
