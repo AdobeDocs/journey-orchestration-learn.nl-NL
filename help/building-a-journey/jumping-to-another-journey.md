@@ -3,7 +3,7 @@ title: Van de ene journey naar de andere gaan
 description: Leer hoe u de jumpactiviteit kunt gebruiken om klanten van de ene journey naar de andere te verplaatsen.
 feature: Journeys
 topics: activity
-kt: 6695
+jira: KT-6695
 thumbnail: 330560.jpg
 audience: user
 doc-type: video
@@ -11,9 +11,9 @@ activity: use
 team: PM
 role: User, Admin
 exl-id: 185c5c83-5444-4592-b113-732ee561f55a
-source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
+source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
 workflow-type: ht
-source-wordcount: '0'
+source-wordcount: '57'
 ht-degree: 100%
 
 ---
