@@ -2,9 +2,10 @@
 title: Tutorials voor Journey Orchestration - Overzicht
 description: Met Journey Orchestration kun je realtimegebruiksscenario’s voor orkestratie maken door gebruik te maken van contextafhankelijke gegevens die zijn opgeslagen in gebeurtenissen of databronnen
 products: Journey orchestration
+feature: Overview
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 73eee54dae0f6a765e0dcd6bcab35cf67f891294
+source-git-commit: b32b245c9738b860d8f6417e7e37d079d75b07f9
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 98%
@@ -21,7 +22,7 @@ ht-degree: 98%
 
 * **[Profielactie bijwerken](/help/building-a-journey/update-profile-action.md)**
 * **[Naar een andere journey gaan](/help/building-a-journey/jumping-to-another-journey.md)**
-   *Leer hoe u individuele gebruikers van de ene journey naar de andere kunt sturen.*
+  *Leer hoe u individuele gebruikers van de ene journey naar de andere kunt sturen.*
 
 </div>
 
