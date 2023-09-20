@@ -1,7 +1,7 @@
 ---
-title: Streaming-gebeurtenissen configureren voor Adobe Journey Orchestration
+title: Streaming-gebeurtenissen configureren voor Journey Orchestration Adobe
 description: Leer hoe u XDM-schema's en datasets kunt configureren voor gebeurtenissen voor Journey Orchestration, een gebeurtenis in Journey Orchestration kunt bepalen en bronsystemen kunt vormen om gebeurtenissen te stroomlijnen.
-feature: Data Sources, Events, Schemas
+feature: Data Sources, Events
 topics: Events
 jira: KT-3731
 thumbnail: 29338.jpg
@@ -10,7 +10,7 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
-source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
+source-git-commit: 99bdf8ca7288db3a33831b67fd954686f8f18673
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 27%
@@ -49,4 +49,4 @@ In de volgende video wordt uitgelegd hoe u dit doet:
 
 >[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12&learn=on)
 
-Zie voor meer informatie de [Gebeurtenissen](https://experienceleague.adobe.com/docs/journeys/using/events-journeys/about-events/about-events.html?lang=en) in de productdocumentatie.
+Zie de klasse [Gebeurtenissen](https://experienceleague.adobe.com/docs/journeys/using/events-journeys/about-events/about-events.html?lang=en) in de productdocumentatie.
