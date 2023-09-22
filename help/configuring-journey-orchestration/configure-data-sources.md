@@ -1,5 +1,5 @@
 ---
-title: Gegevensbronnen configureren voor Adobe Journey Orchestration
+title: Gegevensbronnen configureren voor Journey Orchestration Adobe
 description: Leer hoe te om de Gegevensbron van het Experience Platform te vormen, een externe gegevensbron te vormen, en gegevens in een reis te vinden en te gebruiken.
 feature: Data Sources
 topics: Data Sources
@@ -10,10 +10,10 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: 06fbf5ae-aae1-4a62-af84-18303c9674c9
-source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
+source-git-commit: 9db2765ee5e9520280711a6b1fe3c618963f6f87
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 4%
+source-wordcount: '76'
+ht-degree: 3%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 4%
 
 Leer hoe te om de gegevensbronnen van het Experience Platform te vormen, een externe gegevensbron te vormen, en gegevens in een reis te vinden en te gebruiken.
 
->[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29406?learn=on){transcript=true}
 
-Zie voor meer informatie de [Gegevensbronnen](https://experienceleague.adobe.com/docs/journeys/using/data-source-journeys/about-data-sources.html?lang=en) in de productdocumentatie.
+Zie de klasse [Gegevensbronnen](https://experienceleague.adobe.com/docs/journeys/using/data-source-journeys/about-data-sources.html?lang=en) in de productdocumentatie.

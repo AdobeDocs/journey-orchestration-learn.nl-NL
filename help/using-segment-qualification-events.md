@@ -10,10 +10,10 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
-source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
+source-git-commit: 9db2765ee5e9520280711a6b1fe3c618963f6f87
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 48%
+source-wordcount: '138'
+ht-degree: 47%
 
 ---
 
@@ -28,6 +28,6 @@ Voorbeelden van gebruiksscenario’s:
 
 Deze video biedt een korte inleiding over waar u segmenten kunt configureren en hoe u een segmentkwalificatiegebeurtenis in een journey kunt configureren.
 
->[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37901?learn=on){transcript=true}
 
 Zie voor meer informatie [Segmentkwalificatiegebeurtenissen](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html?lang=en).
