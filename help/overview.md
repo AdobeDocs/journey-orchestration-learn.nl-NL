@@ -5,26 +5,16 @@ products: Journey orchestration
 feature: Overview
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: b32b245c9738b860d8f6417e7e37d079d75b07f9
+source-git-commit: fd7c346c9159ec2646a0887781574a32bba08a7a
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '174'
 ht-degree: 98%
 
 ---
 
-# Journey Orchestration-zelfstudies
+# Zelfstudies voor Journeys Orchestration
 
 [!UICONTROL Journey Orchestration] is een applicatieservice die met het Adobe Experience Platform is geïntegreerd. Zo kun je realtimegebruiksscenario’s voor orkestratie maken door gebruik te maken van contextafhankelijke gegevens die zijn opgeslagen in gebeurtenissen of databronnen.
-
-<div id="whats-new-section">
-
-## Nieuwe functies
-
-* **[Profielactie bijwerken](/help/building-a-journey/update-profile-action.md)**
-* **[Naar een andere journey gaan](/help/building-a-journey/jumping-to-another-journey.md)**
-  *Leer hoe u individuele gebruikers van de ene journey naar de andere kunt sturen.*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -49,7 +39,7 @@ ht-degree: 98%
     </a>
     </div>
     <p>
-    <em>Krijg inzicht in het concept van Journey Orchestration, welke soorten gebruiksscenario's mogelijk zijn en de belangrijkste elementen van de manier waarop Journey Orchestration werkt.</em>
+    <em>Begrijp het concept van Journey Orchestration, de soorten gebruiksscenario’s die mogelijk zijn en de belangrijkste elementen van hoe Journey Orchestration werkt.</em>
     <p>
   </td>
   <td>
@@ -75,7 +65,7 @@ ht-degree: 98%
     </a>
     </div>
     <p>
-    <em>Leer hoe u navigeert naar de rapportages voor uw journey, hoe u datumbereiken voor uw rapport aanpast en hoe u een rapportagesjabloon voor toekomstig gebruik opslaat. </em>
+    <em>Leer hoe u kunt navigeren naar rapportage voor uw journey, hoe u datumbereiken voor uw rapport kunt aanpassen en hoe u een rapportagesjabloon voor toekomstig gebruik kunt opslaan. </em>
     <p>
   </td>
 </tr>
@@ -86,4 +76,4 @@ ht-degree: 98%
 ## Aanvullende bronnen
 
 * [Journey Orchestration Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=nl)
-* [Adobe Experience Platform-tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)
+* [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)
