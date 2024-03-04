@@ -1,18 +1,18 @@
 ---
-title: Tutorials voor Journey Orchestration - Overzicht
-description: Met Journey Orchestration kun je realtimegebruiksscenario’s voor orkestratie maken door gebruik te maken van contextafhankelijke gegevens die zijn opgeslagen in gebeurtenissen of databronnen
+title: Journey Orchestration-tutorials
+description: Met Journey Orchestration kunt u realtimegebruiksscenario’s voor orkestratie maken door contextafhankelijke gegevens te gebruiken die zijn opgeslagen in gebeurtenissen of databronnen
 products: Journey orchestration
 feature: Overview
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: fd7c346c9159ec2646a0887781574a32bba08a7a
+source-git-commit: b15ea4984bb1f709586ad1d744e14de20fcf8edb
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 98%
+source-wordcount: '173'
+ht-degree: 100%
 
 ---
 
-# Zelfstudies voor Journeys Orchestration
+# Journey Orchestration-tutorials
 
 [!UICONTROL Journey Orchestration] is een applicatieservice die met het Adobe Experience Platform is geïntegreerd. Zo kun je realtimegebruiksscenario’s voor orkestratie maken door gebruik te maken van contextafhankelijke gegevens die zijn opgeslagen in gebeurtenissen of databronnen.
 
